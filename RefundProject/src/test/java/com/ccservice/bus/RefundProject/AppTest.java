@@ -29,6 +29,7 @@ public class AppTest extends TestCase {
      */
     public void testApp() {
         System.out.println("this is my  心肝小宝贝！");
+        System.out.println("say baiabi  心肝小宝贝！");
         assertTrue(true);
     }
 }
